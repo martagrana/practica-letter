@@ -1,0 +1,49 @@
+.head {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+
+.date {
+
+    padding: 20px;
+}
+
+.subject {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.salutation {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.body {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.container-table {
+    padding: 10px;
+    margin-left: 40px;
+}
+
+td {
+    text-align: left;
+    padding-right: 30px;
+
+}
+
+.closure {
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.signature {
+    margin-left: 20px;
+    margin-top: 20px;
+}
